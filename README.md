@@ -13,7 +13,7 @@ Pemilihan Iqra
 ![menu Iqra](https://user-images.githubusercontent.com/70549506/209320522-f30aad3d-244b-4a5b-b58f-16547d9d9630.PNG)
 
 # Form Pemilihan Menu
-Terdapat 3 Menu lemari merupkan materi, papan tulis merupakan latihan, tv merupakan video, joystick berupa permainan
+Terdapat 4 Menu lemari merupkan materi, papan tulis merupakan latihan, tv merupakan video, joystick berupa permainan
 
 ![iqra](https://user-images.githubusercontent.com/70549506/209320625-70a64813-3a91-412c-9bf8-cc672517933a.PNG)
 
